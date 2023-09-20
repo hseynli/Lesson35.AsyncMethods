@@ -1,0 +1,8 @@
+D:\Projects\VS Projects\Lesson35.AsyncMethods\12.BeginWrite\bin\Debug\12.BeginWrite.exe.config
+D:\Projects\VS Projects\Lesson35.AsyncMethods\12.BeginWrite\bin\Debug\12.BeginWrite.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\12.BeginWrite\bin\Debug\12.BeginWrite.pdb
+D:\Projects\VS Projects\Lesson35.AsyncMethods\12.BeginWrite\obj\Debug\12.BeginWrite.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\12.BeginWrite\obj\Debug\12.BeginWrite.csproj.SuggestedBindingRedirects.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\12.BeginWrite\obj\Debug\12.BeginWrite.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\12.BeginWrite\obj\Debug\12.BeginWrite.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\12.BeginWrite\obj\Debug\12.BeginWrite.pdb

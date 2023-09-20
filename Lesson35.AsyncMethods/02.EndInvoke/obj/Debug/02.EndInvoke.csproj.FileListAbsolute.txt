@@ -1,0 +1,8 @@
+D:\Projects\VS Projects\Lesson35.AsyncMethods\02.EndInvoke\bin\Debug\02.EndInvoke.exe.config
+D:\Projects\VS Projects\Lesson35.AsyncMethods\02.EndInvoke\bin\Debug\02.EndInvoke.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\02.EndInvoke\bin\Debug\02.EndInvoke.pdb
+D:\Projects\VS Projects\Lesson35.AsyncMethods\02.EndInvoke\obj\Debug\02.EndInvoke.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\02.EndInvoke\obj\Debug\02.EndInvoke.csproj.SuggestedBindingRedirects.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\02.EndInvoke\obj\Debug\02.EndInvoke.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\02.EndInvoke\obj\Debug\02.EndInvoke.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\02.EndInvoke\obj\Debug\02.EndInvoke.pdb

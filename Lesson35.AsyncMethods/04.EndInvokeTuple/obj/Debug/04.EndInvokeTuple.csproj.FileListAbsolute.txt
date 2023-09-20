@@ -1,0 +1,8 @@
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvokeTuple\bin\Debug\04.EndInvokeTuple.exe.config
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvokeTuple\bin\Debug\04.EndInvokeTuple.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvokeTuple\bin\Debug\04.EndInvokeTuple.pdb
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvokeTuple\obj\Debug\04.EndInvokeTuple.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvokeTuple\obj\Debug\04.EndInvokeTuple.csproj.SuggestedBindingRedirects.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvokeTuple\obj\Debug\04.EndInvokeTuple.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvokeTuple\obj\Debug\04.EndInvokeTuple.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvokeTuple\obj\Debug\04.EndInvokeTuple.pdb

@@ -1,0 +1,5 @@
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net5.0\01.BeginInvoke.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net5.0\01.BeginInvoke.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net5.0\01.BeginInvoke.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net5.0\01.BeginInvoke.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net5.0\01.BeginInvoke.csproj.CoreCompileInputs.cache

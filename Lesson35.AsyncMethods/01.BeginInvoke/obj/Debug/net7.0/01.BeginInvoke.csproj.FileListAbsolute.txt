@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\bin\Debug\net7.0\01.BeginInvoke.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\bin\Debug\net7.0\01.BeginInvoke.deps.json
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\bin\Debug\net7.0\01.BeginInvoke.runtimeconfig.json
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\bin\Debug\net7.0\01.BeginInvoke.dll
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\bin\Debug\net7.0\01.BeginInvoke.pdb
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net7.0\01.BeginInvoke.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net7.0\01.BeginInvoke.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net7.0\01.BeginInvoke.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net7.0\01.BeginInvoke.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net7.0\01.BeginInvoke.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net7.0\01.BeginInvoke.dll
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net7.0\refint\01.BeginInvoke.dll
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net7.0\01.BeginInvoke.pdb
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net7.0\01.BeginInvoke.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.BeginInvoke\obj\Debug\net7.0\ref\01.BeginInvoke.dll

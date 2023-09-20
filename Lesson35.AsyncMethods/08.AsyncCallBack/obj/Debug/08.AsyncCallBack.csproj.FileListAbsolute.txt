@@ -1,0 +1,8 @@
+D:\Projects\VS Projects\Lesson35.AsyncMethods\08.AsyncCallBack\bin\Debug\08.AsyncCallBack.exe.config
+D:\Projects\VS Projects\Lesson35.AsyncMethods\08.AsyncCallBack\bin\Debug\08.AsyncCallBack.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\08.AsyncCallBack\bin\Debug\08.AsyncCallBack.pdb
+D:\Projects\VS Projects\Lesson35.AsyncMethods\08.AsyncCallBack\obj\Debug\08.AsyncCallBack.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\08.AsyncCallBack\obj\Debug\08.AsyncCallBack.csproj.SuggestedBindingRedirects.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\08.AsyncCallBack\obj\Debug\08.AsyncCallBack.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\08.AsyncCallBack\obj\Debug\08.AsyncCallBack.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\08.AsyncCallBack\obj\Debug\08.AsyncCallBack.pdb

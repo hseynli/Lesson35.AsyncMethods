@@ -1,0 +1,16 @@
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\bin\Debug\net5.0\04.EndInvoke.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\bin\Debug\net5.0\04.EndInvoke.deps.json
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\bin\Debug\net5.0\04.EndInvoke.runtimeconfig.json
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\bin\Debug\net5.0\04.EndInvoke.runtimeconfig.dev.json
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\bin\Debug\net5.0\04.EndInvoke.dll
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\bin\Debug\net5.0\04.EndInvoke.pdb
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\obj\Debug\net5.0\04.EndInvoke.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\obj\Debug\net5.0\04.EndInvoke.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\obj\Debug\net5.0\04.EndInvoke.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\obj\Debug\net5.0\04.EndInvoke.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\obj\Debug\net5.0\04.EndInvoke.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\obj\Debug\net5.0\04.EndInvoke.dll
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\obj\Debug\net5.0\refint\04.EndInvoke.dll
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\obj\Debug\net5.0\04.EndInvoke.pdb
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\obj\Debug\net5.0\04.EndInvoke.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\04.EndInvoke\obj\Debug\net5.0\ref\04.EndInvoke.dll

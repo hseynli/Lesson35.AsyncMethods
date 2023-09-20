@@ -1,0 +1,8 @@
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.DelegateBeginInvoke\bin\Debug\01.DelegateBeginInvoke.exe.config
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.DelegateBeginInvoke\bin\Debug\01.DelegateBeginInvoke.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.DelegateBeginInvoke\bin\Debug\01.DelegateBeginInvoke.pdb
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.DelegateBeginInvoke\obj\Debug\01.DelegateBeginInvoke.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.DelegateBeginInvoke\obj\Debug\01.DelegateBeginInvoke.csproj.SuggestedBindingRedirects.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.DelegateBeginInvoke\obj\Debug\01.DelegateBeginInvoke.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.DelegateBeginInvoke\obj\Debug\01.DelegateBeginInvoke.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\01.DelegateBeginInvoke\obj\Debug\01.DelegateBeginInvoke.pdb

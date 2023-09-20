@@ -1,0 +1,9 @@
+D:\Projects\VS Projects\Lesson35.AsyncMethods\11.BeginRead\bin\Debug\file.txt
+D:\Projects\VS Projects\Lesson35.AsyncMethods\11.BeginRead\bin\Debug\11.BeginRead.exe.config
+D:\Projects\VS Projects\Lesson35.AsyncMethods\11.BeginRead\bin\Debug\11.BeginRead.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\11.BeginRead\bin\Debug\11.BeginRead.pdb
+D:\Projects\VS Projects\Lesson35.AsyncMethods\11.BeginRead\obj\Debug\11.BeginRead.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\11.BeginRead\obj\Debug\11.BeginRead.csproj.SuggestedBindingRedirects.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\11.BeginRead\obj\Debug\11.BeginRead.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\11.BeginRead\obj\Debug\11.BeginRead.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\11.BeginRead\obj\Debug\11.BeginRead.pdb

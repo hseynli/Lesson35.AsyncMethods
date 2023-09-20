@@ -1,0 +1,8 @@
+D:\Projects\VS Projects\Lesson35.AsyncMethods\05.AsyncWaitHandle_\bin\Debug\05.AsyncWaitHandle_.exe.config
+D:\Projects\VS Projects\Lesson35.AsyncMethods\05.AsyncWaitHandle_\bin\Debug\05.AsyncWaitHandle_.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\05.AsyncWaitHandle_\bin\Debug\05.AsyncWaitHandle_.pdb
+D:\Projects\VS Projects\Lesson35.AsyncMethods\05.AsyncWaitHandle_\obj\Debug\05.AsyncWaitHandle_.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\05.AsyncWaitHandle_\obj\Debug\05.AsyncWaitHandle_.csproj.SuggestedBindingRedirects.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\05.AsyncWaitHandle_\obj\Debug\05.AsyncWaitHandle_.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\05.AsyncWaitHandle_\obj\Debug\05.AsyncWaitHandle_.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\05.AsyncWaitHandle_\obj\Debug\05.AsyncWaitHandle_.pdb

@@ -1,0 +1,8 @@
+D:\Projects\VS Projects\Lesson35.AsyncMethods\06.AsyncPolling\bin\Debug\06.AsyncPolling.exe.config
+D:\Projects\VS Projects\Lesson35.AsyncMethods\06.AsyncPolling\bin\Debug\06.AsyncPolling.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\06.AsyncPolling\bin\Debug\06.AsyncPolling.pdb
+D:\Projects\VS Projects\Lesson35.AsyncMethods\06.AsyncPolling\obj\Debug\06.AsyncPolling.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\06.AsyncPolling\obj\Debug\06.AsyncPolling.csproj.SuggestedBindingRedirects.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\06.AsyncPolling\obj\Debug\06.AsyncPolling.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\06.AsyncPolling\obj\Debug\06.AsyncPolling.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\06.AsyncPolling\obj\Debug\06.AsyncPolling.pdb

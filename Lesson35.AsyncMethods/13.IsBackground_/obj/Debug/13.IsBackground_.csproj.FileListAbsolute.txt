@@ -1,0 +1,8 @@
+D:\Projects\VS Projects\Lesson35.AsyncMethods\13.IsBackground_\bin\Debug\13.IsBackground_.exe.config
+D:\Projects\VS Projects\Lesson35.AsyncMethods\13.IsBackground_\bin\Debug\13.IsBackground_.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\13.IsBackground_\bin\Debug\13.IsBackground_.pdb
+D:\Projects\VS Projects\Lesson35.AsyncMethods\13.IsBackground_\obj\Debug\13.IsBackground_.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\13.IsBackground_\obj\Debug\13.IsBackground_.csproj.SuggestedBindingRedirects.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\13.IsBackground_\obj\Debug\13.IsBackground_.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson35.AsyncMethods\13.IsBackground_\obj\Debug\13.IsBackground_.exe
+D:\Projects\VS Projects\Lesson35.AsyncMethods\13.IsBackground_\obj\Debug\13.IsBackground_.pdb
